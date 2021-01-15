@@ -4,6 +4,6 @@ date: {{ .Date }}
 draft: false
 toc: false
 images:
-tags:[]
+tags: []
 ---
 
