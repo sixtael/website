@@ -1,6 +1,6 @@
 baseURL = "http://123.207.92.131"
 title   = "Luxs"
-languageCode = "zh-cn"
+DefaultContentLanguage = "zh-cn"
 theme = "hello-friend-ng"
 
 PygmentsCodeFences = true
@@ -104,12 +104,6 @@ enableEmoji     = true
   #   path     = "/img/image.jpg"
   #   alt      = "Portrait"
   #   maxWidth = "50px"
-
-[languages]
-  [languages.en]
-    subtitle  = "Hello Friend NG Theme"
-    weight    = 1
-    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
 
 [menu]
   [[menu.main]]
