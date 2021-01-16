@@ -1,16 +1,13 @@
 ---
 title: "Git实用操作"
 date: 2021-01-16T00:06:20+08:00
-hero: /images/MazdaAxela.jpg
 hidden: false
 draft: false
 tags: [git]
 ---
 
-
-## git实用操作  
-
 > 工作中会涉及到的一些git实用操作  
+
 + 对刚才的commit描述进行修改  
 	git commit --amend  
 + 查看commit记录  
